@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome to spring boot heroku demo";
+		return "Welcome to spring boot heroku demo Hương dở hơi";
 	}
 }
